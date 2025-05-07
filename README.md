@@ -1,1 +1,2 @@
 # wineisall
+I am a data analyst. This is a project I worked on. Its last version is Pro_3, which is the most perfect. The purpose of this project is to pull the price of wine of a specific year from the wine price website, and then compare it with the declared data, and find out the companies that underreport the price. The method of comparing prices uses the fuzzywuzzy method. As for how to crawl the wine price website to pull the price of wine of a specific year, please see another project, UKWhisky_pro.
